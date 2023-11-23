@@ -10,6 +10,10 @@ System analysis course
 ![Data model](./1-dm.png)
 
 
+### Commuications
+![Communication model](./1-cm.png)
+
+
 ### Description
 Описание - [AS2023-0.md](./Description.md)
 
